@@ -1,1 +1,4 @@
 # 16_bit_accumulator_design_vlsi_cmos
+
+
+The 16-bit accumulator circuit designed in Electric software utilizes a cascade of 1-bit full adders and D flip-flops for continuous addition and accumulation of data over multiple cycles. This configuration finds practical use in various digital applications, such as digital signal processing for operations like averaging and filtering, in microcontroller systems for counting and sensor data accumulation, within ALUs of CPUs for arithmetic operations, in data logging for continuous data summation, and in digital counters for event counting and monitoring applications. Additionally, the .jileb file contains the final design of the 16-bit accumulator, while the accompanying PDF contains images of layouts and schematics used in the circuit design process.
